@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>墨香</title>
-  
+  <title>墨香de小站</title>
+  <icon>https://www.gravatar.com/avatar/c0644304988fddf7291a3d7d8dd0cd96</icon>
   
   <link href="ht:tp://example.com/atom.xml" rel="self"/>
   
@@ -11,7 +11,7 @@
   
   <author>
     <name>墨香</name>
-    
+    <email>me@yunyoujun.cn me@yunyoujun.cn</email>
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
